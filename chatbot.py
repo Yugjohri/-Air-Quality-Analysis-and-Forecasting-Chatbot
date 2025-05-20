@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
-from prophet import Prophet
+from fbprophet import Prophet
 from sklearn.preprocessing import MinMaxScaler
 import re
 from dateutil import parser
