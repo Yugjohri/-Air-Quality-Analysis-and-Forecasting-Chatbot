@@ -1,0 +1,4 @@
+.env
+__pycache__/
+venv/ # If you are using a virtual environment named 'venv'
+*.pyc

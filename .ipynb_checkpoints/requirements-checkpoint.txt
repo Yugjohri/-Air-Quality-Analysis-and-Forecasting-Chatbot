@@ -1,0 +1,16 @@
+openai
+streamlit
+dotenv
+os
+pandas
+plotly.express
+plotly.graph_object
+numpy
+datetime
+sklearn.model_selection
+sklearn.ensemble
+sklearn.metrics
+prophet
+sklearn.preprocessing
+re
+dateutil
