@@ -10,7 +10,7 @@ datetime
 sklearn.model_selection
 sklearn.ensemble
 sklearn.metrics
-prophet
+fbprophet
 sklearn.preprocessing
 re
 dateutil
